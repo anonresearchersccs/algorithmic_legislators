@@ -487,7 +487,7 @@ This research was supported by [funding information].
 
 Special thanks to:
 - Agent-based modeling community
-- Reviewers at Government Information Quarterly
+- Reviewers at XXXXX
 - Open-source Python ecosystem (NumPy, Pandas, Plotly, AgentPy)
 
 ---
@@ -513,5 +513,6 @@ Found a bug? Have a suggestion? Please open an issue on GitHub or contact the au
 
 **Last updated**: October 2025  
 **Status**: Under review at Government Information Quarterly
+
 
 
