@@ -494,7 +494,7 @@ Special thanks to:
 
 ## 📝 Changelog
 
-### Version 1.0 (2025-01-XX) - GIQ Submission
+### Version 1.0 (2025-10-25) - 
 - Rigorous metrics (replaced simulated noise with real calculations)
 - Complete statistical analysis pipeline
 - Supplementary robustness checks
@@ -513,6 +513,7 @@ Found a bug? Have a suggestion? Please open an issue on GitHub or contact the au
 
 **Last updated**: October 2025  
 **Status**: Under review at Government Information Quarterly
+
 
 
 
